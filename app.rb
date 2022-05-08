@@ -19,7 +19,7 @@ def generate_prompt(animal)
 end
 
 get '/' do
-  erb :index, locals:{result: @result}
+  erb :index
 end
 
 post '/' do
