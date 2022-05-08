@@ -4,7 +4,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 ## Setup
 
-1. If you don’t have Ruby installed, I recommend [install it with rbenv](https://github.com/rbenv/rbenv)
+1. If you don’t have Ruby 3.1.2 installed, I recommend you [install it with rbenv](https://github.com/rbenv/rbenv)
 
 2. Clone this repository
 
