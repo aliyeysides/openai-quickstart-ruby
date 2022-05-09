@@ -1,9 +1,10 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "sinatra"
-gem "sinatra-contrib"
-gem "puma"
-gem "dotenv"
-gem "ruby-openai"
+gem 'dotenv'
+gem 'puma'
+gem 'sinatra'
+gem 'sinatra-contrib'
+
+gem 'ruby-openai'
